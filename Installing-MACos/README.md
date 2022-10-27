@@ -84,9 +84,7 @@ Installer Log
 This will show you what the installer is doing. You can see errors and failures right from the terminal! 
 Top right hand corner of pop-up terminal will have a drop down tab to show other settings
 
-
 NOTE: 
-
 - We had partitions and partitions were pretty limited. You can only have four and there were these logical partitions that has all sorts of formating rules. They weren't all that flexible. That's the old way of doing things. 
 
 - The new way is to use a volume. Volumes are logical, you can have as many of them as you want and they can be laid out however you want. So that's kind of the new way to do it 
