@@ -1,6 +1,5 @@
 
 
-
 # Where do we get a copy of mac OS?
 "you can't go out, and buy macOS directly, you do need to get it with a new Mac, or with an existing Mac, and that's where we get macOS from."
 
@@ -55,8 +54,6 @@ COMMAND+SHFT+'+' to blow up screen
 sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled
 
 ** Untitled is the name of YOUR usb key. However if you format it. It will be named Untitled
-
-
 
 FYI: These USB keys can, one, can be used to reinstall macOS, that's handy, but they can be used for troubleshooting, and recovery. You can boot the recovery partition off of the USB key, even if you can't access the one on your disk, really handy if you're troubleshooting hard drive issues. 
 
